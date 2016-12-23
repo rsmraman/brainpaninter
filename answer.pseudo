@@ -1,0 +1,13 @@
+/*<?php
+         /* Defining a PHP Function */
+          
+         
+         function ans($b) {
+			 $a=mt_rand(6,15);
+			
+			 echo $b . $a ;
+         }
+         
+         /* Calling a PHP Function */
+         ans('raman');
+?> */
